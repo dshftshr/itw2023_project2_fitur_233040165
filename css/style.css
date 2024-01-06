@@ -17,6 +17,10 @@
     font-family: Verdana;
 }
 
+.metode ul{
+    list-style-type: none;
+}
+
 /* easy fitur */
 .style-biru{
     background-color: #073B4C;
